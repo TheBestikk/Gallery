@@ -32,7 +32,7 @@ body{
     font-weight: 700;
 }
 .gallery{
-    background-color: beige;
+    background-image: linear-gradient(to top, rgb(231, 184, 97), rgb(245, 236, 236));
 }
 .gallery-list{
     padding-top: 40px;
